@@ -1,12 +1,13 @@
-<h1 align="center"> Reveal Destiny </h1>
+<h1 align="center"> RocketPay </h1>
 
 <p align="center">
-Feito em um bootcamp, um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+Feito no Explorer Lab #01, um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
 </p>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Contatos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
@@ -18,20 +19,26 @@ Feito em um bootcamp, um evento exclusivo e gratuito, promovido pela Rocketseat 
 <br>
 
 <p align="center">
-  <img alt="revealdestiny" src="" width="100%">
+  <img alt="rocketpay" src=".github/project.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML 
-- CSS
-- JavaScript
+- HTML e CSS
+- JavaScript e JSON
+- [Node e NPM](https://nodejs.org/)
+- [Vite](https://vitejs.dev/)
+- [iMask](https://imask.js.org)
 
 ## 💻 Projeto
 
-O Reveal Destiny simula uma brincadeira com um vidente, através de um sistema que escolhe aleatóriamente uma resposta pronta e a entrega a sua pergunta.
+O Rocketpay é um componente que simula o formulário de preenchimento de cartão de crédito, onde é possível adicionar máscara aos inputs e atualizar elementos HTML via DOM.
+
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/gpqavL469k0pPUGOmAQEM9/Explorer-Lab-%2301/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## 📔 Contatos
 

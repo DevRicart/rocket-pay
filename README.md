@@ -18,7 +18,7 @@ Feito em um bootcamp, um evento exclusivo e gratuito, promovido pela Rocketseat 
 <br>
 
 <p align="center">
-  <img alt="rocketpay" src="" width="100%">
+  <img alt="revealdestiny" src="" width="100%">
 </p>
 
 ## 🚀 Tecnologias
